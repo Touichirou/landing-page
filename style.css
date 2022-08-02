@@ -1,0 +1,72 @@
+.header, 
+.footer,
+.contentone {
+    background-color: #1f2937;
+}
+
+.header {
+    font-family: 'Roboto', sans-serif;  
+}
+
+.headerlogo {
+    font-size: 24px;
+}
+
+.headerlogo,
+h1 {
+    color: #F9FAF8;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 48px;    
+}
+
+h2,
+.quote,
+.author {
+    color: #1f2937;
+}
+
+h1,
+h2 { 
+    font-weight: 800;
+}
+
+.links,
+.contentonetext,
+.author {
+    font-size: 18px;
+}
+
+.links,
+.contentonetext {
+    color: #e5e7eb;
+}
+
+.contentthree {
+    background-color: #e5e7eb;
+}
+
+.quote,
+h2 {
+    font-size: 36px;
+}
+
+.quote {
+    font-style: italic;
+    font-weight: 100;
+
+}
+
+button,
+.contentfour {
+    background-color: #3882f6;
+}
